@@ -23,7 +23,7 @@ RUN chmod +x /tmp/install.sh && /tmp/install.sh && rm /tmp/install.sh
 # Start                                          #
 ##################################################
 
-USER root
+#USER root
 
 EXPOSE 5353 51826
 

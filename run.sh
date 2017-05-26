@@ -1,5 +1,7 @@
 #!/bin/bash
 
+chmod -R 777 /root/
+
 rm /var/run/dbus/pid #incase shutdown abruptly
 
 # avahi config
