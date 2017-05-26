@@ -27,7 +27,7 @@ sudo apt-get update
 sudo apt-get install -qy git make gcc g++
 curl -sL https://deb.nodesource.com/setup_6.x | bash -
 sudo apt-get install -qy nodejs
-sudo apt-get install -qy avahi-daemon avahi-discover libnss-mdns libavahi-compat-libdnssd-dev
+sudo apt-get install -qy avahi-daemon mc avahi-discover libnss-mdns libavahi-compat-libdnssd-dev
 
 ##################################################
 # Install homebridge                             #
