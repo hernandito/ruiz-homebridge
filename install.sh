@@ -34,6 +34,12 @@ sudo apt-get install -qy avahi-daemon avahi-discover libnss-mdns libavahi-compat
 ##################################################
 
 sudo npm install -g homebridge
+sudo npm upgrade -g homebridge
+sudo npm install -g dominicstelljes/homebridge-sonos
+sudo npm install -g homebridge-smartthings
+sudo npm install -g homebridge-lifx-lan
+
+
 
 #########################################
 ##                 CLEANUP             ##
